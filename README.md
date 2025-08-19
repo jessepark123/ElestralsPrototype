@@ -1,0 +1,1 @@
+This is a repository of the M1 code I built for a 3D Elestrals RPG. It's just the source code here and blueprints; none of the actual game files. This code was very light on the comments as I was just making this on my own, probably should've added more anyway!
